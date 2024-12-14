@@ -12,4 +12,4 @@ Project Overview : Drum Kit Web Application
 Technology Used : HTML , CSS & JAVASCRIPT
 
 Output : 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Drum-Kit-Web-Application/blob/b75e69b5cac5b5380bd86e2dfbe1419e10d3cfb3/Output/Output.png)
